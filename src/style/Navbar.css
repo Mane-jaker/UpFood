@@ -1,0 +1,27 @@
+.bt{
+    border-top: solid 5px;
+}
+
+.first, .thir{
+    border-left: solid 5px;
+    border-right: solid 5px;
+    border-bottom: solid 5px;
+}
+
+.last{
+    border-right: solid 5px;
+    border-bottom: solid 5px;
+}
+
+.sec{
+    border-bottom: solid 5px;
+}
+
+.letn{
+    width: 100%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 130%;
+}

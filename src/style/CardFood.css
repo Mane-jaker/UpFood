@@ -1,0 +1,21 @@
+.block-orange{
+    background-color: coral;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.roun{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    height: 150px;
+}
+
+.marg{
+    margin-top: 5%;
+}
+
+.rank, .price, .tit{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+

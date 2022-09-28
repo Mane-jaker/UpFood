@@ -1,0 +1,18 @@
+.margf{
+    margin-top: 20%;
+    background-color: black;
+    height: 100px;
+}
+
+.upfood{
+    font-family: 'Raleway', sans-serif;
+    font-size: 250%;
+    color: aliceblue;
+}
+
+.textp{
+    font-family: 'Raleway', sans-serif;
+    font-size: 150%;
+    text-align: center;
+    color: aliceblue;
+}

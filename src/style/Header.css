@@ -1,0 +1,39 @@
+.tittle{
+    font-family: 'Raleway', sans-serif;
+    font-size: 350%;
+    text-align: center;
+}
+
+.ma{
+    margin-top: 15%;
+}
+
+.r{
+    background-color: rgb(227, 46, 40);
+    color:rgb(227, 46, 40);
+}
+
+.o{
+    background-color: rgb(227, 107, 1);  
+    color: rgb(227, 107, 1);  
+}
+
+.y{
+    background-color: rgb(196, 81, 77);  
+    color:  rgb(196, 81, 77);  
+}
+
+.g{
+    background-color: rgb(216, 121, 70);  
+    color:  rgb(216, 121, 70);  
+}
+
+.b{
+    background-color: rgb(200, 110, 45);  
+    color: rgb(200, 110, 45);   
+}
+
+.p{
+    background-color: rgb(208, 73, 27);  
+    color: rgb(208, 73, 27);  
+}
